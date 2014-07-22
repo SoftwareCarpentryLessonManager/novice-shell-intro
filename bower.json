@@ -1,6 +1,7 @@
 {
   "name": "novice-shell-intro",
   "version": "0.1.0",
+  "main": "index.md",
   "homepage": "https://github.com/SoftwareCarpentryLessonManager/novice-shell-intro",
   "description": "Introductory lesson to the POSIX shell.",
   "keywords": [
